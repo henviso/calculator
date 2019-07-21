@@ -1,3 +1,6 @@
 [submodule "sum"]
 	path = sum
 	url = git@github.com:henviso/sum.git
+[submodule "mult"]
+	path = mult
+	url = git@github.com:henviso/mult.git

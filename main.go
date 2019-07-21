@@ -6,7 +6,7 @@ import "bufio"
 import "strings"
 import "strconv"
 import "./sum/sum"
-import "../mult/mult"
+import "./mult/mult"
 
 func main() {
 	fmt.Println("Calculator")
